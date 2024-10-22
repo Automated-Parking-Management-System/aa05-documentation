@@ -1,6 +1,4 @@
 # Automated Parking Management System
-The following is a summary of what this project is about. For detailed report go to [Final EDP Report.](./Final_EDP_Report.pdf)
-
 ##Computer/Electrical Engineering Capstone Design Project
 
 Toronto Metropolitan University, W2024
@@ -167,3 +165,5 @@ The **Automated Parking Management System (APMS)** offers a reliable, user-frien
 - ESP32 - RFID/NFC. ESP32 Tutorial. (n.d.). [https://esp32io.com/tutorials/esp32-rfid-nfc](https://esp32io.com/tutorials/esp32-rfid-nfc)
 - Smiley, S. (2022, May 13). What is Passive RFID?. atlasRFIDstore. [https://www.atlasrfidstore.com/rfid-insider/what-is-passive-rfid/](https://www.atlasrfidstore.com/rfid-insider/what-is-passive-rfid/)
 - CD-Tonics For You. [https://www.electronicsforu.com/technology-trends/learn-electronics/ir-led-infrared-sensor-basics](https://www.electronicsforu.com/technology-trends/learn-electronics/ir-led-infrared-sensor-basics)
+
+This `README.md` gives a summary of the project. For detailed report go to [Final EDP Report.](./Final_EDP_Report.pdf)
