@@ -1,5 +1,5 @@
 # Automated Parking Management System
-##Computer/Electrical Engineering Capstone Design Project
+## Computer/Electrical Engineering Capstone Design Project
 
 Toronto Metropolitan University, W2024
 
