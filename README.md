@@ -1,3 +1,8 @@
+# Summary of Project
+The following is a summary of what this project is about. For detailed report go to [Final EDP Report.](./Final_EDP_Report.pdf)
+
+---
+
 # Automated Parking Management System
 **Computer/Electrical Engineering Capstone Design Project**
 
